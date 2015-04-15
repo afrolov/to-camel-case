@@ -1,0 +1,24 @@
+{
+  "name": "to-camel-case",
+  "main": "index.js",
+  "version": "0.2.2",
+  "homepage": "https://github.com/ianstormtaylor/to-camel-case",
+  "keywords": ["space", "case", "spacecase", "string"],
+  "authors": [
+    "Ian Storm Taylor"
+  ],
+  "description": "Convert a string to a camel case.",
+  "moduleType": [
+    "node",
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+  ],
+  "dependencies": {
+      "to-space-case": "git://github.com/afrolov/to-space-case#0.1.4"
+  },
+  "devDependencies": {
+
+  }
+} 
